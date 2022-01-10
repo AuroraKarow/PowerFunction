@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.jsp": "html",
+        "matrix": "cpp",
+        "neunet": "cpp",
+        "funcact": "cpp",
+        "imgdig": "cpp",
+        "strin": "cpp",
+        "csvop": "cpp",
+        "powfunc": "cpp",
+        "functional": "cpp",
+        "powfunclib": "cpp"
+    }
+}

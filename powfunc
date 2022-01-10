@@ -1,0 +1,9 @@
+#pragma once
+#include "functional"
+#include "string"
+#include "complex"
+
+#define POWFUNC_BEGIN   namespace powfunc{
+#define POWFUNC_END     }
+
+#include "powfunc.hpp"
